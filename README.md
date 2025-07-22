@@ -81,6 +81,10 @@ Ein motorisiertes RC-Car (Robot-Car) soll über einen Ultraschall-Abstandssensor
 
 ---
 
+## Schaltkreisansicht
+
+![Arduino Schaltkreisansicht](/pictures/ArduinoBreadboard.png)
+
 ## 💻 Beispielcode
 
 ```cpp
